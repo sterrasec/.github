@@ -19,7 +19,7 @@ We welcome contributions from the community!
 Thank you for visiting our GitHub organization! We look forward to collaborating with you.
 
 - Website: [https://www.sterrasec.com](https://www.sterrasec.com/)
-- Blog: [https://tech-blog.sterrasec.com](https://tech-blog.sterrasec.com/)
+- Blog(ja): [https://tech-blog.sterrasec.com](https://tech-blog.sterrasec.com/)
 - X: [@sterrasec](https://x.com/sterrasec)
 
 ## License
