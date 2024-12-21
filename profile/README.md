@@ -7,7 +7,7 @@ Welcome to the official GitHub organization of Sterra Security Co.,Ltd.
 We are a dedicated security vendor focused on providing reliable and comprehensive vulnerability assessments in Japan. 
 Our mission is to help organizations identify and mitigate potential security risks, ensuring their systems are robust and secure against emerging threats.
 
-We contribute to the community by publishing OSS🔧 on GitHub to help with penetration testing.
+We contribute to the community by publishing OSS tools🔧 on GitHub to help with penetration testing.
 We welcome contributions from the community! 
 
 <p align="center">
