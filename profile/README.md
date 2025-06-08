@@ -11,7 +11,7 @@ We contribute to the community by publishing OSS tools🔧 on GitHub to help wit
 We welcome contributions from the community! 
 
 <p align="center">
-  <img src="./img/logo.png" />
+  <img src="https://github.com/sterrasec/.github/blob/main/profile%2Fimg%2Flogo.png" />
 </p>
 
 ## Links
