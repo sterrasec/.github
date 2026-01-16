@@ -6,9 +6,10 @@ Welcome to the official GitHub organization of Sterra Security Co.,Ltd.
 
 **Bridging Professional Insight and Open Source**
 
-We are a Japan-based security vendor specializing in high-fidelity vulnerability assessments. Our core identity is to codify our specialized knowledge into reproducible forms and share them with the global security community. 
+We are a Japan-based security vendor. We provide reliable security solutions. Our creativity enables us to stay one step ahead of potential attackers. Our analytical ability allows us to see further. We are committed to codifying our specialised knowledge into reproducible forms and sharing them with the global security community. 
 
-私たちは、高度な脆弱性診断を提供する日本のセキュリティベンダです。「専門的な知見を、再現可能な形でコミュニティに還元すること」をアイデンティティとし、日々のリサーチや現場で得た知見を、誰もが検証・利用可能なOSSツールとして公開しています。
+当社は日本を拠点とするセキュリティベンダーです。攻撃者の先を行く「創造性」と、深部を見抜く「解析力」によって「信頼性できるセキュリティ」を提供します。
+「専門的な知見を、再現可能な形でコミュニティに還元すること」をアイデンティティとし、日々のリサーチや現場で得た知見を、誰もが検証・利用可能なOSSツールとして公開しています。
 
 <p align="center">
   <img src="https://github.com/sterrasec/.github/blob/main/profile%2Fimg%2Flogo.png" />
