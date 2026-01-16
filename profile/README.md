@@ -8,7 +8,7 @@ Welcome to the official GitHub organization of Sterra Security Co.,Ltd.
 
 We are a Japan-based security vendor. We provide reliable security solutions. Our creativity enables us to stay one step ahead of potential attackers. Our analytical ability allows us to see further. We are committed to codifying our specialised knowledge into reproducible forms and sharing them with the global security community. 
 
-当社は日本を拠点とするセキュリティベンダーです。攻撃者の先を行く「創造性」と、深部を見抜く「解析力」によって「信頼性できるセキュリティ」を提供します。
+当社は日本を拠点とするセキュリティベンダです。攻撃者の先を行く「創造性」と、深部を見抜く「解析力」によって「信頼性できるセキュリティ」を提供します。
 「専門的な知見を、再現可能な形でコミュニティに還元すること」をアイデンティティとし、日々のリサーチや現場で得た知見を、誰もが検証・利用可能なOSSツールとして公開しています。
 
 <p align="center">
@@ -25,11 +25,13 @@ Android/iOSアプリのメモリ探索・改変を効率化するツールです
 ## 🛠 Our Values
 
 ### Reproducibility
-We don't just identify risks; we provide the tools to understand and test them. We believe transparency leads to better security.  
+We don't just identify risks; we provide the tools to understand and test them. We believe transparency leads to better security.
+
 単にリスクを指摘するだけでなく、それを誰もが再現・検証できる「手段」を提供します。透明性こそがより良いセキュリティに繋がると信じています。
 
 ### Community-Driven
-Our GitHub is a hub for our latest research and penetration testing utilities. We build in the open to empower security engineers worldwide.  
+Our GitHub is a hub for our latest research and penetration testing utilities. We build in the open to empower security engineers worldwide.
+
 GitHubを最新のリサーチや診断ツールの発信拠点とし、オープンな開発を通じて世界中のセキュリティエンジニアの活動を支援します。
 
 
