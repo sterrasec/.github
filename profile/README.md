@@ -41,7 +41,7 @@ We welcome contributions from the community! Whether it's a bug report, a featur
 
 私たちはIssueの報告、機能要望、プルリクエストなどのコミュニティからの貢献を歓迎します。より安全な宇宙を共に築いていきましょう。
 
-* 🌐 **Website:** [sterrasec.com](https://sterrasec.com/)
+* 🌐 **Website:** [sterrasec.com](https://www.sterrasec.com/)
 * 📘 **Blog:** [tech-blog.sterrasec.com](https://tech-blog.sterrasec.com/)
 * 🐦 **X (Twitter):** [@sterrasec](https://x.com/sterrasec)
 
