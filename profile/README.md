@@ -1,52 +1,71 @@
-# Welcome to Sterra Security Co.,Ltd. 👋
+# Welcome to Sterra Security Co., Ltd. 👋
 
-Welcome to the official GitHub organization of Sterra Security Co.,Ltd.
+Welcome to the official GitHub organization of **Sterra Security Co., Ltd.**
 
-## About Us
+We are a security vendor based in Japan, focused on application security, mobile security, security research, and practical tooling for security engineers.
 
-**Bridging Professional Insight and Open Source**
-
-We are a Japan-based security vendor. We provide reliable security solutions. Our creativity enables us to stay one step ahead of potential attackers. Our analytical ability allows us to see further. We are committed to codifying our specialised knowledge into reproducible forms and sharing them with the global security community. 
-
-当社は日本を拠点とするセキュリティベンダです。攻撃者の先を行く「創造性」と、深部を見抜く「解析力」によって「信頼性できるセキュリティ」を提供します。
-「専門的な知見を、再現可能な形でコミュニティに還元すること」をアイデンティティとし、日々のリサーチや現場で得た知見を、誰もが検証・利用可能なOSSツールとして公開しています。
+Our GitHub organization is where we publish open-source tools, research prototypes, and utilities built from real-world security assessment work.
 
 <p align="center">
-  <img src="https://github.com/sterrasec/.github/blob/main/profile%2Fimg%2Flogo.png" />
+  <img src="https://github.com/sterrasec/.github/blob/main/profile%2Fimg%2Flogo.png" alt="Sterra Security logo" />
 </p>
 
-## 🚀 Featured Project: [apk-medit](https://github.com/sterrasec/apk-medit)&[ipa-medit](https://github.com/sterrasec/ipa-medit)
+## 🚀 Featured Projects
 
-**A memory search and patch tool for mobile applications.**
-`apk-medit`&`ipa-medit` is a powerful utility designed to streamline memory analysis and security testing of Android/iOS apps, allowing researchers to identify and manipulate memory values.
+### [apk-medit](https://github.com/sterrasec/apk-medit) / [ipa-medit](https://github.com/sterrasec/ipa-medit)
 
-Android/iOSアプリのメモリ探索・改変を効率化するツールです。端末内のメモリ操作を可能にし、動的解析のプロセスを強力にサポートします。
+**Memory search and patch tools for mobile applications.**
+
+`apk-medit` and `ipa-medit` help streamline dynamic analysis of Android and iOS applications by allowing researchers to search, inspect, and modify memory values during security testing.
+
+These tools are designed for mobile application security research, reverse engineering workflows, and controlled testing environments.
 
 ## 🛠 Our Values
 
+### Practicality
+
+We build tools that support real assessment workflows, not just proof-of-concept demonstrations.
+
 ### Reproducibility
-We don't just identify risks; we provide the tools to understand and test them. We believe transparency leads to better security.
 
-単にリスクを指摘するだけでなく、それを誰もが再現・検証できる「手段」を提供します。透明性こそがより良いセキュリティに繋がると信じています。
+We do not just identify risks. We aim to provide the tools and methods needed to understand, verify, and reproduce them.
 
-### Community-Driven
-Our GitHub is a hub for our latest research and penetration testing utilities. We build in the open to empower security engineers worldwide.
+### Transparency
 
-GitHubを最新のリサーチや診断ツールの発信拠点とし、オープンな開発を通じて世界中のセキュリティエンジニアの活動を支援します。
+We believe security knowledge becomes more useful when it can be reviewed, improved, and shared with the community.
 
+## 🔬 Focus Areas
+
+Sterra Security works on security tooling and research across areas such as:
+
+* Mobile application security
+* Web application security
+* Reverse engineering
+* Dynamic analysis
+* Vulnerability assessment
+* Security automation
+* Developer-oriented security workflows
 
 ## 🤝 Contribution & Collaboration
 
-We welcome contributions from the community! Whether it's a bug report, a feature request, or a pull request, your input helps evolve these tools and make the universe more secure.
+We welcome issues, feature requests, discussions, and pull requests.
 
-私たちはIssueの報告、機能要望、プルリクエストなどのコミュニティからの貢献を歓迎します。より安全な宇宙を共に築いていきましょう。
+If you find a bug, have an idea for improvement, or want to contribute to one of our tools, please open an issue or submit a pull request in the relevant repository.
+
+Before contributing, please review each repository’s README, license, and contribution guidelines where available.
+
+## ⚠️ Responsible Use
+
+Our tools are intended for legitimate security research, authorized testing, education, and defensive assessment.
+
+Do not use these tools against systems, applications, or devices without proper authorization.
+
+## 🔗 Links
 
 * 🌐 **Website:** [sterrasec.com](https://www.sterrasec.com/)
 * 📘 **Blog:** [tech-blog.sterrasec.com](https://tech-blog.sterrasec.com/)
-* 🐦 **X (Twitter):** [@sterrasec](https://x.com/sterrasec)
+* 🐦 **X:** [@sterrasec](https://x.com/sterrasec)
 
-## License
+## 📄 License
 
-All our projects are licensed under the [MIT License](https://github.com/sterrasec/.github/blob/main/LICENSE).
-
-*This README was generated with ❤️ by the sterrasec team.*
+Unless otherwise stated, our open-source projects are released under the [MIT License](https://github.com/sterrasec/.github/blob/main/LICENSE).
