@@ -38,11 +38,10 @@ We believe security knowledge becomes more useful when it can be reviewed, impro
 
 Sterra Security works on security tooling and research across areas such as:
 
+* Vulnerability assessment
 * Mobile application security
 * Web application security
 * Reverse engineering
-* Dynamic analysis
-* Vulnerability assessment
 * Security automation
 * Developer-oriented security workflows
 
